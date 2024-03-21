@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goorm_mission05/static/css/main.b003835a.css",
+    "main.js": "/goorm_mission05/static/js/main.f67964b2.js",
+    "static/js/453.c300d85f.chunk.js": "/goorm_mission05/static/js/453.c300d85f.chunk.js",
+    "index.html": "/goorm_mission05/index.html",
+    "main.b003835a.css.map": "/goorm_mission05/static/css/main.b003835a.css.map",
+    "main.f67964b2.js.map": "/goorm_mission05/static/js/main.f67964b2.js.map",
+    "453.c300d85f.chunk.js.map": "/goorm_mission05/static/js/453.c300d85f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b003835a.css",
+    "static/js/main.f67964b2.js"
+  ]
+}
